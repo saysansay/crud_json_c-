@@ -1,0 +1,9 @@
+C:\Users\patlisan02164\Downloads\DataText\DataText\bin\Debug\DataText.exe
+C:\Users\patlisan02164\Downloads\DataText\DataText\bin\Debug\DataText.pdb
+C:\Users\patlisan02164\Downloads\DataText\DataText\obj\Debug\DataText.csprojAssemblyReference.cache
+C:\Users\patlisan02164\Downloads\DataText\DataText\obj\Debug\AppSample.Form1.resources
+C:\Users\patlisan02164\Downloads\DataText\DataText\obj\Debug\DataText.Properties.Resources.resources
+C:\Users\patlisan02164\Downloads\DataText\DataText\obj\Debug\DataText.csproj.GenerateResource.cache
+C:\Users\patlisan02164\Downloads\DataText\DataText\obj\Debug\DataText.csproj.CoreCompileInputs.cache
+C:\Users\patlisan02164\Downloads\DataText\DataText\obj\Debug\DataText.exe
+C:\Users\patlisan02164\Downloads\DataText\DataText\obj\Debug\DataText.pdb

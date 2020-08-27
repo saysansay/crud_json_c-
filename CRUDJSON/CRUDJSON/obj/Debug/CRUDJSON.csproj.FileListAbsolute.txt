@@ -1,0 +1,10 @@
+E:\MKOM\crud_json_csharp\CRUDJSON\CRUDJSON\bin\Debug\CRUDJSON.exe.config
+E:\MKOM\crud_json_csharp\CRUDJSON\CRUDJSON\bin\Debug\CRUDJSON.exe
+E:\MKOM\crud_json_csharp\CRUDJSON\CRUDJSON\bin\Debug\CRUDJSON.pdb
+E:\MKOM\crud_json_csharp\CRUDJSON\CRUDJSON\bin\Debug\Newtonsoft.Json.dll
+E:\MKOM\crud_json_csharp\CRUDJSON\CRUDJSON\bin\Debug\Newtonsoft.Json.xml
+E:\MKOM\crud_json_csharp\CRUDJSON\CRUDJSON\obj\Debug\CRUDJSON.csproj.CoreCompileInputs.cache
+E:\MKOM\crud_json_csharp\CRUDJSON\CRUDJSON\obj\Debug\CRUDJSON.csproj.CopyComplete
+E:\MKOM\crud_json_csharp\CRUDJSON\CRUDJSON\obj\Debug\CRUDJSON.exe
+E:\MKOM\crud_json_csharp\CRUDJSON\CRUDJSON\obj\Debug\CRUDJSON.pdb
+E:\MKOM\crud_json_csharp\CRUDJSON\CRUDJSON\obj\Debug\CRUDJSON.csprojAssemblyReference.cache

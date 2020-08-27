@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataText.Properties.Resources.resources
+obj\Debug\DataText.csproj.GenerateResource.Cache
+bin\Debug\DataText.exe
+bin\Debug\DataText.pdb
+obj\Debug\DataText.exe
+obj\Debug\DataText.pdb
+obj\Debug\AppSample.Form1.resources
